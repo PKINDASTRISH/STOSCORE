@@ -1,0 +1,2 @@
+# STOSCORE
+Zapis świadomości mhz
